@@ -1,0 +1,48 @@
+[submodule "odoo-product-configurator"]
+	path = odoo-product-configurator
+	url = https://github.com/RL-OtherApps/odoo-product-configurator.git
+	branch = 12.0
+[submodule "hr-addons"]
+	path = hr-addons
+	url = https://github.com/RL-OtherApps/hr-addons.git
+	branch = 12.0
+[submodule "fleet_management"]
+	path = fleet_management
+	url = https://github.com/RL-OtherApps/fleet_management.git
+	branch = 12.0
+[submodule "vertical-housing-cooperative"]
+	path = vertical-housing-cooperative
+	url = https://github.com/RL-OtherApps/vertical-housing-cooperative.git
+	branch = 12.0
+[submodule "multi-store"]
+	path = multi-store
+	url = https://github.com/RL-OtherApps/multi-store.git
+	branch = 12.0
+[submodule "survey_attachment"]
+	path = survey_attachment
+	url = https://github.com/RL-OtherApps/survey_attachment.git
+	branch = 12.0
+[submodule "account-move-import"]
+	path = account-move-import
+	url = https://github.com/RL-OtherApps/account-move-import.git
+	branch = 12.0
+[submodule "odoo-viewer-groups"]
+	path = odoo-viewer-groups
+	url = https://github.com/RL-OtherApps/odoo-viewer-groups.git
+	branch = 12.0
+[submodule "odoo-hw"]
+	path = odoo-hw
+	url = https://github.com/RL-OtherApps/odoo-hw.git
+	branch = 12.0
+[submodule "project-bid"]
+	path = project-bid
+	url = https://github.com/RL-OtherApps/project-bid.git
+	branch = 12.0
+[submodule "project-earned-value"]
+	path = project-earned-value
+	url = https://github.com/RL-OtherApps/project-earned-value.git
+	branch = 12.0
+[submodule "odoo-addons-3"]
+	path = odoo-addons-3
+	url = https://github.com/RL-OtherApps/odoo-addons-3.git
+	branch = 12.0
