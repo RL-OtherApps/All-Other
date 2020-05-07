@@ -1,0 +1,48 @@
+[submodule "odoo-crm"]
+	path = odoo-crm
+	url = https://github.com/RL-OtherApps/odoo-crm.git
+	branch = 12.0
+[submodule "stock-rma"]
+	path = stock-rma
+	url = https://github.com/RL-OtherApps/stock-rma.git
+	branch = 12.0
+[submodule "odoo-website"]
+	path = odoo-website
+	url = https://github.com/RL-OtherApps/odoo-website.git
+	branch = 12.0
+[submodule "product"]
+	path = product
+	url = https://github.com/RL-OtherApps/product.git
+	branch = 12.0
+[submodule "backend_theme"]
+	path = backend_theme
+	url = https://github.com/RL-OtherApps/backend_theme.git
+	branch = 12.0
+[submodule "odoo-formio"]
+	path = odoo-formio
+	url = https://github.com/RL-OtherApps/odoo-formio.git
+	branch = 12.0
+[submodule "odoo-addons-2"]
+	path = odoo-addons-2
+	url = https://github.com/RL-OtherApps/odoo-addons-2.git
+	branch = 12.0
+[submodule "addons-vauxoo"]
+	path = addons-vauxoo
+	url = https://github.com/RL-OtherApps/addons-vauxoo.git
+	branch = 12.0
+[submodule "merp"]
+	path = merp
+	url = https://github.com/RL-OtherApps/merp.git
+	branch = 12.0
+[submodule "odoo-usability"]
+	path = odoo-usability
+	url = https://github.com/RL-OtherApps/odoo-usability.git
+	branch = 12.0
+[submodule "ak-odoo-incubator"]
+	path = ak-odoo-incubator
+	url = https://github.com/RL-OtherApps/ak-odoo-incubator.git
+	branch = 12.0
+[submodule "qu-server-tools"]
+	path = qu-server-tools
+	url = https://github.com/RL-OtherApps/qu-server-tools.git
+	branch = 12.0
