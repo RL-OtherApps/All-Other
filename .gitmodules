@@ -1,0 +1,52 @@
+[submodule "addons-onestein"]
+	path = addons-onestein
+	url = https://github.com/RL-OtherApps/addons-onestein.git
+	branch = 12.0
+[submodule "odooAddons"]
+	path = odooAddons
+	url = https://github.com/RL-OtherApps/odooAddons.git
+	branch = 12.0
+[submodule "odoo-project-addons"]
+	path = odoo-project-addons
+	url = https://github.com/RL-OtherApps/odoo-project-addons.git
+	branch = 12.0
+[submodule "trey-addons"]
+	path = trey-addons
+	url = https://github.com/RL-OtherApps/trey-addons.git
+	branch = 12.0
+[submodule "alfodoo"]
+	path = alfodoo
+	url = https://github.com/RL-OtherApps/alfodoo.git
+	branch = 12.0
+[submodule "Community_Portal"]
+	path = Community_Portal
+	url = https://github.com/RL-OtherApps/Community_Portal.git
+	branch = 12.0
+[submodule "eficent-odoo-addons"]
+	path = eficent-odoo-addons
+	url = https://github.com/RL-OtherApps/eficent-odoo-addons.git
+	branch = 12.0
+[submodule "crm-addons"]
+	path = crm-addons
+	url = https://github.com/RL-OtherApps/crm-addons.git
+	branch = 12.0
+[submodule "willdooit-afex-odoo"]
+	path = willdooit-afex-odoo
+	url = https://github.com/RL-OtherApps/willdooit-afex-odoo.git
+	branch = 12.0
+[submodule "odoo-vtiger"]
+	path = odoo-vtiger
+	url = https://github.com/RL-OtherApps/odoo-vtiger.git
+	branch = 12.0
+[submodule "website"]
+	path = website
+	url = https://github.com/RL-OtherApps/website.git
+	branch = 12.0
+[submodule "odoo-hr"]
+	path = odoo-hr
+	url = https://github.com/RL-OtherApps/odoo-hr.git
+	branch = 12.0
+[submodule "app-odoo"]
+	path = app-odoo
+	url = https://github.com/RL-OtherApps/app-odoo.git
+	branch = 12.0
