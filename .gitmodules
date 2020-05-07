@@ -1,0 +1,28 @@
+[submodule "edz-custom"]
+	path = edz-custom
+	url = https://github.com/RL-OtherApps/edz-custom.git
+	branch = 12.0
+[submodule "fb-connector"]
+	path = fb-connector
+	url = https://github.com/RL-OtherApps/fb-connector.git
+	branch = 12.0
+[submodule "business_intelligence_fields"]
+	path = business_intelligence_fields
+	url = https://github.com/RL-OtherApps/business_intelligence_fields.git
+	branch = 12.0
+[submodule "odoo-apps"]
+	path = odoo-apps
+	url = https://github.com/RL-OtherApps/odoo-apps.git
+	branch = 12.0
+[submodule "pos-addons-llc"]
+	path = pos-addons-llc
+	url = https://github.com/RL-OtherApps/pos-addons-llc.git
+	branch = 12.0
+[submodule "qubiq-addons"]
+	path = qubiq-addons
+	url = https://github.com/RL-OtherApps/qubiq-addons.git
+	branch = 12.0
+[submodule "aeroo_reports"]
+	path = aeroo_reports
+	url = https://github.com/RL-OtherApps/aeroo_reports.git
+	branch = 12.0
