@@ -1,0 +1,52 @@
+[submodule "partner"]
+	path = partner
+	url = https://github.com/RL-OtherApps/partner.git
+	branch = 12.0
+[submodule "odoo_community_addons"]
+	path = odoo_community_addons
+	url = https://github.com/RL-OtherApps/odoo_community_addons.git
+	branch = 12.0
+[submodule "odoo-payment-gateways"]
+	path = odoo-payment-gateways
+	url = https://github.com/RL-OtherApps/odoo-payment-gateways.git
+	branch = 12.0
+[submodule "odoo_dhtmlxgantt"]
+	path = odoo_dhtmlxgantt
+	url = https://github.com/RL-OtherApps/odoo_dhtmlxgantt.git
+	branch = 12.0
+[submodule "odoo-mooncard-connector"]
+	path = odoo-mooncard-connector
+	url = https://github.com/RL-OtherApps/odoo-mooncard-connector.git
+	branch = 12.0
+[submodule "logeco"]
+	path = logeco
+	url = https://github.com/RL-OtherApps/logeco.git
+	branch = 12.0
+[submodule "mailbox_replica"]
+	path = mailbox_replica
+	url = https://github.com/RL-OtherApps/mailbox_replica.git
+	branch = 12.0
+[submodule "mtd"]
+	path = mtd
+	url = https://github.com/RL-OtherApps/mtd.git
+	branch = 12.0
+[submodule "Development-Tutorials"]
+	path = Development-Tutorials
+	url = https://github.com/RL-OtherApps/Development-Tutorials.git
+	branch = 12.0
+[submodule "patches"]
+	path = patches
+	url = https://github.com/RL-OtherApps/patches.git
+	branch = 12.0
+[submodule "odoo-report"]
+	path = odoo-report
+	url = https://github.com/RL-OtherApps/odoo-report.git
+	branch = 12.0
+[submodule "Odoo"]
+	path = Odoo
+	url = https://github.com/RL-OtherApps/Odoo.git
+	branch = 12.0
+[submodule "renjie_odoo_addons"]
+	path = renjie_odoo_addons
+	url = https://github.com/RL-OtherApps/renjie_odoo_addons.git
+	branch = 12.0
