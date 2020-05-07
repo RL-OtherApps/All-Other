@@ -1,0 +1,52 @@
+[submodule "horizon"]
+	path = horizon
+	url = https://github.com/RL-OtherApps/horizon.git
+	branch = 12.0
+[submodule "transport-management-system"]
+	path = transport-management-system
+	url = https://github.com/RL-OtherApps/transport-management-system.git
+	branch = 12.0
+[submodule "miscellaneous"]
+	path = miscellaneous
+	url = https://github.com/RL-OtherApps/miscellaneous.git
+	branch = 12.0
+[submodule "odoo-addons-cae"]
+	path = odoo-addons-cae
+	url = https://github.com/RL-OtherApps/odoo-addons-cae.git
+	branch = 12.0
+[submodule "odoo-addons-multi-company"]
+	path = odoo-addons-multi-company
+	url = https://github.com/RL-OtherApps/odoo-addons-multi-company.git
+	branch = 12.0
+[submodule "avoinsystems-addons"]
+	path = avoinsystems-addons
+	url = https://github.com/RL-OtherApps/avoinsystems-addons.git
+	branch = 12.0
+[submodule "tracking"]
+	path = tracking
+	url = https://github.com/RL-OtherApps/tracking.git
+	branch = 12.0
+[submodule "payments_usd_mxn"]
+	path = payments_usd_mxn
+	url = https://github.com/RL-OtherApps/payments_usd_mxn.git
+	branch = 12.0
+[submodule "sdi-addons"]
+	path = sdi-addons
+	url = https://github.com/RL-OtherApps/sdi-addons.git
+	branch = 12.0
+[submodule "project-addons"]
+	path = project-addons
+	url = https://github.com/RL-OtherApps/project-addons.git
+	branch = 12.0
+[submodule "odoo-saas-tools"]
+	path = odoo-saas-tools
+	url = https://github.com/RL-OtherApps/odoo-saas-tools.git
+	branch = 12.0
+[submodule "odoo-academic"]
+	path = odoo-academic
+	url = https://github.com/RL-OtherApps/odoo-academic.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_mfmng"]
+	path = clvsol_odoo_addons_mfmng
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_mfmng.git
+	branch = 12.0
