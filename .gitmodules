@@ -1,0 +1,40 @@
+[submodule "storage-deprecated-moved-to-oca"]
+	path = storage-deprecated-moved-to-oca
+	url = https://github.com/RL-OtherApps/storage-deprecated-moved-to-oca.git
+	branch = 12.0
+[submodule "send_sms_task"]
+	path = send_sms_task
+	url = https://github.com/RL-OtherApps/send_sms_task.git
+	branch = 12.0
+[submodule "Jupical_Contributions"]
+	path = Jupical_Contributions
+	url = https://github.com/RL-OtherApps/Jupical_Contributions.git
+	branch = 12.0
+[submodule "logistics-center"]
+	path = logistics-center
+	url = https://github.com/RL-OtherApps/logistics-center.git
+	branch = 12.0
+[submodule "odoo-addons-company-wizard"]
+	path = odoo-addons-company-wizard
+	url = https://github.com/RL-OtherApps/odoo-addons-company-wizard.git
+	branch = 12.0
+[submodule "profiloo"]
+	path = profiloo
+	url = https://github.com/RL-OtherApps/profiloo.git
+	branch = 12.0
+[submodule "oehealth"]
+	path = oehealth
+	url = https://github.com/RL-OtherApps/oehealth.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_pbm"]
+	path = clvsol_odoo_addons_pbm
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_pbm.git
+	branch = 12.0
+[submodule "Jasperreports_odoo"]
+	path = Jasperreports_odoo
+	url = https://github.com/RL-OtherApps/Jasperreports_odoo.git
+	branch = 12.0
+[submodule "countinghouse"]
+	path = countinghouse
+	url = https://github.com/RL-OtherApps/countinghouse.git
+	branch = 12.0
