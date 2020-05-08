@@ -254,3 +254,183 @@
 	path = odoo-hr
 	url = https://github.com/RL-OtherApps/odoo-hr.git
 	branch = 12.0
+[submodule "transport-management-system"]
+	path = transport-management-system
+	url = https://github.com/RL-OtherApps/transport-management-system.git
+	branch = 12.0
+[submodule "miscellaneous"]
+	path = miscellaneous
+	url = https://github.com/RL-OtherApps/miscellaneous.git
+	branch = 12.0
+[submodule "odoo-addons-cae"]
+	path = odoo-addons-cae
+	url = https://github.com/RL-OtherApps/odoo-addons-cae.git
+	branch = 12.0
+[submodule "odoo-addons-multi-company"]
+	path = odoo-addons-multi-company
+	url = https://github.com/RL-OtherApps/odoo-addons-multi-company.git
+	branch = 12.0
+[submodule "avoinsystems-addons"]
+	path = avoinsystems-addons
+	url = https://github.com/RL-OtherApps/avoinsystems-addons.git
+	branch = 12.0
+[submodule "tracking"]
+	path = tracking
+	url = https://github.com/RL-OtherApps/tracking.git
+	branch = 12.0
+[submodule "payments_usd_mxn"]
+	path = payments_usd_mxn
+	url = https://github.com/RL-OtherApps/payments_usd_mxn.git
+	branch = 12.0
+[submodule "sdi-addons"]
+	path = sdi-addons
+	url = https://github.com/RL-OtherApps/sdi-addons.git
+	branch = 12.0
+[submodule "project-addons"]
+	path = project-addons
+	url = https://github.com/RL-OtherApps/project-addons.git
+	branch = 12.0
+[submodule "odoo-product-configurator"]
+	path = odoo-product-configurator
+	url = https://github.com/RL-OtherApps/odoo-product-configurator.git
+	branch = 12.0
+[submodule "hr-addons"]
+	path = hr-addons
+	url = https://github.com/RL-OtherApps/hr-addons.git
+	branch = 12.0
+[submodule "fleet_management"]
+	path = fleet_management
+	url = https://github.com/RL-OtherApps/fleet_management.git
+	branch = 12.0
+[submodule "multi-store"]
+	path = multi-store
+	url = https://github.com/RL-OtherApps/multi-store.git
+	branch = 12.0
+[submodule "survey_attachment"]
+	path = survey_attachment
+	url = https://github.com/RL-OtherApps/survey_attachment.git
+	branch = 12.0
+[submodule "account-move-import"]
+	path = account-move-import
+	url = https://github.com/RL-OtherApps/account-move-import.git
+	branch = 12.0
+[submodule "odoo-viewer-groups"]
+	path = odoo-viewer-groups
+	url = https://github.com/RL-OtherApps/odoo-viewer-groups.git
+	branch = 12.0
+[submodule "odoo-hw"]
+	path = odoo-hw
+	url = https://github.com/RL-OtherApps/odoo-hw.git
+	branch = 12.0
+[submodule "project-bid"]
+	path = project-bid
+	url = https://github.com/RL-OtherApps/project-bid.git
+	branch = 12.0
+[submodule "project-earned-value"]
+	path = project-earned-value
+	url = https://github.com/RL-OtherApps/project-earned-value.git
+	branch = 12.0
+[submodule "partner"]
+	path = partner
+	url = https://github.com/RL-OtherApps/partner.git
+	branch = 12.0
+[submodule "odoo_community_addons"]
+	path = odoo_community_addons
+	url = https://github.com/RL-OtherApps/odoo_community_addons.git
+	branch = 12.0
+[submodule "odoo-payment-gateways"]
+	path = odoo-payment-gateways
+	url = https://github.com/RL-OtherApps/odoo-payment-gateways.git
+	branch = 12.0
+[submodule "odoo_dhtmlxgantt"]
+	path = odoo_dhtmlxgantt
+	url = https://github.com/RL-OtherApps/odoo_dhtmlxgantt.git
+	branch = 12.0
+[submodule "odoo-mooncard-connector"]
+	path = odoo-mooncard-connector
+	url = https://github.com/RL-OtherApps/odoo-mooncard-connector.git
+	branch = 12.0
+[submodule "logeco"]
+	path = logeco
+	url = https://github.com/RL-OtherApps/logeco.git
+	branch = 12.0
+[submodule "mailbox_replica"]
+	path = mailbox_replica
+	url = https://github.com/RL-OtherApps/mailbox_replica.git
+	branch = 12.0
+[submodule "mtd"]
+	path = mtd
+	url = https://github.com/RL-OtherApps/mtd.git
+	branch = 12.0
+[submodule "Development-Tutorials"]
+	path = Development-Tutorials
+	url = https://github.com/RL-OtherApps/Development-Tutorials.git
+	branch = 12.0
+[submodule "patches"]
+	path = patches
+	url = https://github.com/RL-OtherApps/patches.git
+	branch = 12.0
+[submodule "odoo-report"]
+	path = odoo-report
+	url = https://github.com/RL-OtherApps/odoo-report.git
+	branch = 12.0
+[submodule "storage-deprecated-moved-to-oca"]
+	path = storage-deprecated-moved-to-oca
+	url = https://github.com/RL-OtherApps/storage-deprecated-moved-to-oca.git
+	branch = 12.0
+[submodule "send_sms_task"]
+	path = send_sms_task
+	url = https://github.com/RL-OtherApps/send_sms_task.git
+	branch = 12.0
+[submodule "Jupical_Contributions"]
+	path = Jupical_Contributions
+	url = https://github.com/RL-OtherApps/Jupical_Contributions.git
+	branch = 12.0
+[submodule "logistics-center"]
+	path = logistics-center
+	url = https://github.com/RL-OtherApps/logistics-center.git
+	branch = 12.0
+[submodule "odoo-addons-company-wizard"]
+	path = odoo-addons-company-wizard
+	url = https://github.com/RL-OtherApps/odoo-addons-company-wizard.git
+	branch = 12.0
+[submodule "profiloo"]
+	path = profiloo
+	url = https://github.com/RL-OtherApps/profiloo.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_pbm"]
+	path = clvsol_odoo_addons_pbm
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_pbm.git
+	branch = 12.0
+[submodule "Jasperreports_odoo"]
+	path = Jasperreports_odoo
+	url = https://github.com/RL-OtherApps/Jasperreports_odoo.git
+	branch = 12.0
+[submodule "countinghouse"]
+	path = countinghouse
+	url = https://github.com/RL-OtherApps/countinghouse.git
+	branch = 12.0
+[submodule "edz-custom"]
+	path = edz-custom
+	url = https://github.com/RL-OtherApps/edz-custom.git
+	branch = 12.0
+[submodule "fb-connector"]
+	path = fb-connector
+	url = https://github.com/RL-OtherApps/fb-connector.git
+	branch = 12.0
+[submodule "business_intelligence_fields"]
+	path = business_intelligence_fields
+	url = https://github.com/RL-OtherApps/business_intelligence_fields.git
+	branch = 12.0
+[submodule "pos-addons-llc"]
+	path = pos-addons-llc
+	url = https://github.com/RL-OtherApps/pos-addons-llc.git
+	branch = 12.0
+[submodule "qubiq-addons"]
+	path = qubiq-addons
+	url = https://github.com/RL-OtherApps/qubiq-addons.git
+	branch = 12.0
+[submodule "aeroo_reports"]
+	path = aeroo_reports
+	url = https://github.com/RL-OtherApps/aeroo_reports.git
+	branch = 12.0
