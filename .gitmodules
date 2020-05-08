@@ -2,3 +2,147 @@
 	path = ALL
 	url = https://github.com/OCA-MUK/ALL.git
 	branch = master
+[submodule "Event-Management"]
+	path = Event-Management
+	url = https://github.com/RL-OtherApps/Event-Management.git
+	branch = 12.0
+[submodule "Mobile-Service-Management"]
+	path = Mobile-Service-Management
+	url = https://github.com/RL-OtherApps/Mobile-Service-Management.git
+	branch = 12.0
+[submodule "Front-Office-Management"]
+	path = Front-Office-Management
+	url = https://github.com/RL-OtherApps/Front-Office-Management.git
+	branch = 12.0
+[submodule "Rasool-Nawaz"]
+	path = Rasool-Nawaz
+	url = https://github.com/RL-OtherApps/Rasool-Nawaz.git
+	branch = 12.0
+[submodule "admin_export"]
+	path = admin_export
+	url = https://github.com/RL-OtherApps/admin_export.git
+	branch = 12.0
+[submodule "Libtech"]
+	path = Libtech
+	url = https://github.com/RL-OtherApps/Libtech.git
+	branch = 12.0
+[submodule "multipay"]
+	path = multipay
+	url = https://github.com/RL-OtherApps/multipay.git
+	branch = 12.0
+[submodule "YK"]
+	path = YK
+	url = https://github.com/RL-OtherApps/YK.git
+	branch = 12.0
+[submodule "carpeta_ventas_monopark"]
+	path = carpeta_ventas_monopark
+	url = https://github.com/RL-OtherApps/carpeta_ventas_monopark.git
+	branch = 12.0
+[submodule "invoice_report_design"]
+	path = invoice_report_design
+	url = https://github.com/RL-OtherApps/invoice_report_design.git
+	branch = 12.0
+[submodule "odoo-base"]
+	path = odoo-base
+	url = https://github.com/RL-OtherApps/odoo-base.git
+	branch = 12.0
+[submodule "misc-addons"]
+	path = misc-addons
+	url = https://github.com/RL-OtherApps/misc-addons.git
+	branch = 12.0
+[submodule "CybroAddons"]
+	path = CybroAddons
+	url = https://github.com/RL-OtherApps/CybroAddons.git
+	branch = 12.0
+[submodule "odoo-cloud-platform"]
+	path = odoo-cloud-platform
+	url = https://github.com/RL-OtherApps/odoo-cloud-platform.git
+	branch = 12.0
+[submodule "odoo-af"]
+	path = odoo-af
+	url = https://github.com/RL-OtherApps/odoo-af.git
+	branch = 12.0
+[submodule "cb-addons"]
+	path = cb-addons
+	url = https://github.com/RL-OtherApps/cb-addons.git
+	branch = 12.0
+[submodule "qrtl-custom"]
+	path = qrtl-custom
+	url = https://github.com/RL-OtherApps/qrtl-custom.git
+	branch = 12.0
+[submodule "access-addons"]
+	path = access-addons
+	url = https://github.com/RL-OtherApps/access-addons.git
+	branch = 12.0
+[submodule "addons-coopiteasy"]
+	path = addons-coopiteasy
+	url = https://github.com/RL-OtherApps/addons-coopiteasy.git
+	branch = 12.0
+[submodule "vertical-cooperative"]
+	path = vertical-cooperative
+	url = https://github.com/RL-OtherApps/vertical-cooperative.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons_jcafb"]
+	path = clvsol_odoo_addons_jcafb
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons_jcafb.git
+	branch = 12.0
+[submodule "stock"]
+	path = stock
+	url = https://github.com/RL-OtherApps/stock.git
+	branch = 12.0
+[submodule "purchase"]
+	path = purchase
+	url = https://github.com/RL-OtherApps/purchase.git
+	branch = 12.0
+[submodule "clvsol_odoo_addons"]
+	path = clvsol_odoo_addons
+	url = https://github.com/RL-OtherApps/clvsol_odoo_addons.git
+	branch = 12.0
+[submodule "pos-addons"]
+	path = pos-addons
+	url = https://github.com/RL-OtherApps/pos-addons.git
+	branch = 12.0
+[submodule "mrp_subcontracting-backport"]
+	path = mrp_subcontracting-backport
+	url = https://github.com/RL-OtherApps/mrp_subcontracting-backport.git
+	branch = 12.0
+[submodule "odoo-pim"]
+	path = odoo-pim
+	url = https://github.com/RL-OtherApps/odoo-pim.git
+	branch = 12.0
+[submodule "other-odoo-addons"]
+	path = other-odoo-addons
+	url = https://github.com/RL-OtherApps/other-odoo-addons.git
+	branch = 12.0
+[submodule "odoo-shopinvader"]
+	path = odoo-shopinvader
+	url = https://github.com/RL-OtherApps/odoo-shopinvader.git
+	branch = 12.0
+[submodule "odoo-addons"]
+	path = odoo-addons
+	url = https://github.com/RL-OtherApps/odoo-addons.git
+	branch = 12.0
+[submodule "website-addons"]
+	path = website-addons
+	url = https://github.com/RL-OtherApps/website-addons.git
+	branch = 12.0
+[submodule "mail-addons"]
+	path = mail-addons
+	url = https://github.com/RL-OtherApps/mail-addons.git
+	branch = 12.0
+[submodule "OpenHRMS"]
+	path = OpenHRMS
+	url = https://github.com/RL-OtherApps/OpenHRMS.git
+	branch = 12.0
+[submodule "cb-hr"]
+	path = cb-hr
+	url = https://github.com/RL-OtherApps/cb-hr.git
+	branch = 12.0
+[submodule "external_modules"]
+	path = external_modules
+	url = https://github.com/RL-OtherApps/external_modules.git
+	branch = 12.0
+[submodule "odoo-shopinvader-payment"]
+	path = odoo-shopinvader-payment
+	url = https://github.com/RL-OtherApps/odoo-shopinvader-payment.git
+	branch = 12.0
