@@ -1,0 +1,4 @@
+[submodule "ALL"]
+	path = ALL
+	url = https://github.com/OCA-MUK/ALL.git
+	branch = master
